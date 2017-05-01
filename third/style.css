@@ -1,0 +1,60 @@
+body {
+    
+}
+
+.myheader{
+    background-color: rgb(51,51,51);
+    height: 60px;
+    width: 100%;
+    text-align: left;
+    line-height: 60px;
+}
+
+.top-left-button {
+    height: 5%;
+    width: 15%;
+    margin: 5px;
+    padding: 1rem;
+    display: inline-block;
+    background-color: rgb(51, 51, 51);
+    font-size: 1rem;
+    color: white;
+}
+
+.top-right-button {
+    height: 5%;
+    width: 15%;
+    margin: 5px;
+    padding: 1rem;
+    display: inline-block;
+    background-color: rgb(51, 51, 51);
+    font-size: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+}
+
+h1 {
+    text-align: center;
+}
+
+.col1 {
+    height: 100%;
+    width: 50%;
+    background-color: white;
+    display: inline-block;
+}
+
+.col2 {
+    height: 100%;
+    width: 49%;
+    background-color: white;
+    display: inline-block;
+}
+
+footer {
+    background-color: rgb(51, 51, 51);
+    height: 60px;
+}
